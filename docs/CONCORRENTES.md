@@ -56,13 +56,16 @@ Legenda: ✓ tem e faz bem · ~ tem, mas fraco · ✗ não tem. "Cliente hoje" =
 | Velocidade no celular (nota PageSpeed) | [A MEDIR] | [A MEDIR] | [A MEDIR] | n/a (sem site) |
 | Experiência no celular (CTA visível, leitura) | ~ CTA visível, mas hero desfocado ao carregar e quase nenhum texto (`jules-375.jpg`) | ✗ Banner de cookies e pop-up ocupam a primeira tela (`padocadobem-375.jpg`) | ✗ Primeira tela em branco após 4 s no print (`dinapoli-375.jpg`, `dinapoli-1280.jpg`) | ~ Instagram funciona no celular, mas pede login para ver mais posts (`boapaes-instagram.jpg`) |
 | SEO básico (title, H1, dados estruturados) | ~ Title ok; **sem H1**; JSON-LD LocalBusiness (Wix) | ~ Title genérico "HOME \| Padoca do Bem"; **sem H1**; JSON-LD LocalBusiness | ✗ Title só com o nome; **sem H1**; sem JSON-LD; texto de exemplo "Subtítulo" esquecido na home | ✗ Sem site; Google Business sem website |
-| Citado por assistentes de IA na busca do serviço | [A VERIFICAR] | [A VERIFICAR] | [A VERIFICAR] | [A VERIFICAR] |
+| Citado por assistentes de IA na busca do serviço | ✓ ChatGPT: 1º lugar e recomendação final (`ia-chatgpt.png`) · Gemini [A VERIFICAR] · Perplexity [A VERIFICAR] | ✗ ChatGPT: não citada (`ia-chatgpt.png`) · Gemini [A VERIFICAR] · Perplexity [A VERIFICAR] | ✗ ChatGPT: não citada (`ia-chatgpt.png`) · Gemini [A VERIFICAR] · Perplexity [A VERIFICAR] | ✓ ChatGPT: 2º lugar, "fermentação natural, confeitaria e brunch", com fonte "Blog da Trisul"; recomendada "para priorizar pães artesanais e fermentação natural" (`ia-chatgpt.png`) · Gemini [A VERIFICAR] · Perplexity [A VERIFICAR] |
 | Adequação à LGPD (privacidade, cookies) | ✗ Sem banner de cookies nem política de privacidade visível | ~ Banner de cookies existe, mas o link "Política de Privacidade" aponta para /checkout | ✗ Sem banner nem política | n/a |
 | Canal de contato rápido (WhatsApp, agenda online) | ✓ WhatsApp por loja e agendamento de grandes formatos ([delivery](https://www.padariajules.com.br/delivery), [contato](https://www.padariajules.com.br/contato)) | ✓ WhatsApp e pedido via cardápio online finalizado no WhatsApp ([home](https://www.padocadobem.com/)) | ~ Telefone e iFood, sem WhatsApp ([home](https://padocadinapoli.com.br/)) | ~ Telefone fixo e iFood; WhatsApp [A CONFIRMAR] |
 
 Pendências da matriz:
 - **PageSpeed:** a cota da API do Google estava esgotada e a página do PageSpeed não concluiu a análise durante a pesquisa. Rodar à mão em [pagespeed.web.dev](https://pagespeed.web.dev/) para os 3 sites (modo celular) e preencher.
-- **Citação por IA:** perguntar a ChatGPT, Gemini e Perplexity "qual a melhor padaria artesanal em Moema?" (sem login, aba anônima) e registrar quem aparece. Não foi feito por exigir contas nesses serviços.
+- **Citação por IA:** consultas feitas pelo responsável em 14/10/2026 (texto exato da pergunta [A CONFIRMAR]).
+  - **ChatGPT** (`ia-chatgpt.png`): 1º Jules (4,6), 2º Boa Pães (4,6), 3º Fazio (4,8), 4º Aldeia do Bispo (4,4), 5º Nexo (4,7). Fontes exibidas: "Lifestyle e Gastro…" (Jules), "Blog da Trisul" (Boa Pães), "Padaria Artesana…" (Aldeia do Bispo); Fazio e Nexo sem fonte. Padoca do Bem e Di Napoli, que têm site, não aparecem; Fazio, Aldeia do Bispo e Nexo, que não têm site, aparecem.
+  - **Gemini:** [A VERIFICAR]
+  - **Perplexity:** [A VERIFICAR]
 
 ## Conclusões
 
